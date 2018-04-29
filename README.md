@@ -4,7 +4,7 @@
 |---|:---:|---|
 | [Add](#Add) | `a Name` | -h -i |
 | Damage | `d Slot #` | -f |
-| Heal | `h Slot #` | |
+| Heal | `h Slot #` | -f |
 | Load | `l filename` | |
 | Add Initiative | `i Slot #` | |
 
