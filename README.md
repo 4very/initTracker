@@ -12,12 +12,18 @@
 ## Commands
 ### Add
 Add someone to the Initiative Order
-### Flags
-| Flag | Description | Usage
+#### Flags
+| Flag | Description | Usage |
 | --- | --- | --- |
 | -h | Specify Health | `a Name -h 140` |
 | -i | Specify Initiative | `a Name -i 18`|
 
+### Damage
+Specify when someone takes Damage
+#### Flags
+| Flag | Description | Usage |
+| --- | --- | --- |
+| -f | From | `d 1 15 -f 3` |
 
 ---
 ## Flag Glossary
