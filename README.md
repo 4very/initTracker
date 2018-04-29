@@ -2,11 +2,7 @@
 
 | Command | Usage | Flags |
 |---|:---:|---|
-<<<<<<< HEAD
-| [Add](###Add) | `a Name` | -h -i |
-=======
-| [Add](### Add) | `a Name` | -h -i |
->>>>>>> dc07a6c6b9036e0bde3a202b58c1df713237a425
+| [Add](#Add) | `a Name` | -h -i |
 | Damage | `d Slot #` | -f |
 | Heal | `h Slot #` | |
 | Load | `l filename` | |
