@@ -8,6 +8,9 @@
 | Load | `l filename` | |
 | Add Initiative | `i Slot #` | |
 | Update | `u Slot` | -a -i -h -n |
+| Undo | `z` | |
+| History | `h` | |
+| Export | `e` | |
 
 
 ## Commands
@@ -53,6 +56,10 @@ Throsh -h 999 -a 999
 | Type | Description |
 | --- | --- |
 | p | Specify a group of people |
-
+| e | Only used by the export function |
 ---
 ## Flag Glossary
+
+## Planned Features
+- Auto Save
+- Really good GUI
